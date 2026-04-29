@@ -4,6 +4,10 @@ PlayDepth: 0
 ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 804
+Title: 准备好了没：2度开局 中英双语
+Original Translation: 翻译与校对：pubuqi（subhd.tv）,  Borcolasky（subhd.tv）, 小p（蒙太奇字幕组）
+Original Timing: 时间轴：小p（蒙太奇字幕组）
+Script Updated By: 2026年4月14日（pubuqi）：适配1:47:51片源 修改了一些错误 | 2026年4月21日（Borcolasky）：目前该影片还未上线流媒体，因此暂不存在官方英语字幕。目前网络上可获取的英语字幕全是用AI语音识别后的英语字幕，存在诸多问题（例如识别错误，开场歌曲时间轴严重偏移，角色名识别前后不一致或错误，识别到发音近似但意思完全不同的句子，AI幻听出不存在的台词 等）。目前网上流传的大多数中文字幕也都是基于这个公开的AI英文字幕进行机翻，因此同样存在大量错误。修正以下问题：1. 开场歌曲时间轴严重偏移，歌词错误；2. 依照官方角色名校正，确保角色名前后一致；3. 对万晨星（普通话）、El Caido一家（西语）、Martina Rajan（克罗地亚语）的源语言台词进行忠实核对与校正；4. 删除AI幻听的不存在台词；5. 补上AI遗漏但确实存在的台词；6. 校正明显偏移的时间轴；7. 修正AI识别错误的台词。 | 2026年4月29日（小p）：很高兴与各位共同完善本片字幕；我在原有基础上对全片逐句重听并全面校对，整体改动约5%，主要包括：1. 逐句复核并修正台词；2. 严格对齐每句时间轴；3. 拆分冗长句、合并显示时长过短句子；4. 补齐片中硬字幕；5. 增加一处注释；6. 补译两首歌曲歌词；7. 为中文添加对应的准确英文翻译；8. 规范字幕格式、去除无用符号并完善 ASS 格式（依蒙太奇字幕组偏好）。
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,7 +20,6 @@ Style: Note,Microsoft YaHei,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.47,0:00:04.34,Note,,0,0,0,,原创听译校正：Borcolasky @ subhd.tv\N原创听译校正与时间轴：小p @ 蒙太奇字幕组
 Dialogue: 0,0:00:12.67,0:00:22.21,Screen,,0,0,0,,{\an2}（探照灯影业）
 Dialogue: 0,0:00:24.25,0:00:33.04,Lyrics,,0,0,0,,{\i1}♪ {\an7}今晚你属于我 ♪\N{\rLyricsEng}♪ Tonight you're mine completely ♪
 Dialogue: 0,0:00:34.45,0:00:42.08,Lyrics,,0,0,0,,{\i1}♪ {\an7}你把爱给得温柔如蜜 ♪\N{\rLyricsEng}♪ You give your love so sweetly ♪
@@ -79,6 +82,7 @@ Dialogue: 0,0:03:34.28,0:03:35.36,Default,,0,0,0,,我来帮你检测\N{\rEng}I'l
 Dialogue: 0,0:03:43.54,0:03:45.41,Default,,0,0,0,,三 二 一\N{\rEng}Three, two, one.
 Dialogue: 0,0:03:45.42,0:03:46.42,Default,,0,0,0,,你会明白的\N{\rEng}You'll see
 Dialogue: 0,0:03:51.33,0:03:59.91,Screen,,0,0,0,,{\an8}《准备好了没：2度开局》
+Dialogue: 0,0:03:51.33,0:03:53.38,Note,,0,0,0,,{\an2}字幕贡献者\Npubuqi（subhd.tv）\NBorcolasky（subhd.tv）\N小p（蒙太奇字幕组）
 Dialogue: 0,0:04:14.54,0:04:16.06,Default,,0,0,0,,勒多马斯太太？\N{\rEng}Mrs. Le Domas?
 Dialogue: 0,0:04:16.75,0:04:17.75,Default,,0,0,0,,我在哪里？\N{\rEng}Where am I?
 Dialogue: 0,0:04:18.32,0:04:20.03,Default,,0,0,0,,您现在位于康涅狄格州的伍德伯里\N{\rEng}You're in Woodbury, Connecticut.
@@ -549,7 +553,6 @@ Dialogue: 0,0:32:58.16,0:33:00.62,Default,,0,0,0,,议会成员不得互相残杀
 Dialogue: 0,0:33:01.41,0:33:05.49,Default,,0,0,0,,如果他们这样做了 即使是意外 勒贝尔先生也会生气\N{\rEng}If they do, even by accident, Mr. LeBail will be angry.
 Dialogue: 0,0:33:05.64,0:33:09.41,Default,,0,0,0,,而那家有罪之人的整个家族都将受到惩罚\N{\rEng}And the offending family's entire bloodline will be punished.
 Dialogue: 0,0:33:09.84,0:33:12.13,Default,,0,0,0,,除此之外 百无禁忌\N{\rEng}Beyond that, anything goes.
-Dialogue: 0,0:33:17.45,0:33:19.75,Note,,0,0,0,,原创听译校正：Borcolasky @ subhd.tv\N原创听译校正与时间轴：小p @ 蒙太奇字幕组
 Dialogue: 0,0:33:25.62,0:33:28.41,Default,,0,0,0,,我不想用血笔\N{\rEng}I... I don't want to use the blood pen.
 Dialogue: 0,0:33:29.72,0:33:31.49,Default,,0,0,0,,你至少可以把它消毒一下吧\N{\rEng}Or can you at least sterilize it.
 Dialogue: 0,0:33:32.98,0:33:34.04,Default,,0,0,0,,该死\N{\rEng}Fuck's sake.
@@ -1265,7 +1268,6 @@ Dialogue: 0,1:16:20.67,1:16:21.24,Default,,0,0,0,,嘿\N{\rEng}Hey.
 Dialogue: 0,1:16:22.82,1:16:24.91,Default,,0,0,0,,在我杀了你姐姐后\N{\rEng}After I kill your sister...
 Dialogue: 0,1:16:26.03,1:16:27.73,Default,,0,0,0,,我和你好好玩玩\N{\rEng}...you and I are gonna have more fun.
 Dialogue: 0,1:16:30.30,1:16:31.44,Default,,0,0,0,,把她带去小屋\N{\rEng}Take her to the lodge.
-Dialogue: 0,1:16:42.05,1:16:45.46,Note,,0,0,0,,原创听译校正：Borcolasky @ subhd.tv\N原创听译校正与时间轴：小p @ 蒙太奇字幕组
 Dialogue: 0,1:16:45.88,1:16:47.46,Screen,,0,0,0,,{\an8}（安保武器）
 Dialogue: 0,1:17:44.02,1:17:45.60,Default,,0,0,0,,回来第二轮了 婊子\N{\rEng}Back for round two, bitch!
 Dialogue: 0,1:17:45.61,1:17:46.61,Default,,0,0,0,,对\N{\rEng}Yeah.
@@ -1518,4 +1520,4 @@ Dialogue: 0,1:43:25.41,1:43:26.41,Default,,0,0,0,,哦\N{\rEng}Oh.
 Dialogue: 0,1:43:26.42,1:43:27.50,Default,,0,0,0,,我们要去医院\N{\rEng}We're gonna go to the hospital.
 Dialogue: 0,1:43:28.70,1:43:29.70,Default,,0,0,0,,我要去洗个澡\N{\rEng}I need a bath.
 Dialogue: 0,1:43:29.82,1:43:30.82,Default,,0,0,0,,我也感觉快臭了\N{\rEng}I stink too.
-Dialogue: 0,1:43:32.54,1:43:35.50,Note,,0,0,0,,原创听译校正：Borcolasky @ subhd.tv\N原创听译校正与时间轴：小p @ 蒙太奇字幕组
+Dialogue: 0,1:43:34.25,1:43:41.50,Note,,0,0,0,,{\an8}字幕贡献者\N初稿翻译：pubuqi（subhd.tv）\N二次校对与听译：Borcolasky（subhd.tv）\N终稿校对 听译复核与时间轴：小p（蒙太奇字幕组）
